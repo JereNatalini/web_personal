@@ -1,0 +1,30 @@
+/* Estilo para el body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f2f2f2;
+  }
+  
+  /* Estilo para el encabezado (h1) */
+  h1 {
+    color: #333;
+  }
+  
+  /* Estilo para los párrafos (p) */
+  p {
+    color: #666;
+  }
+  
+
+  /* Estilo para los enlaces (a) */
+a {
+    color: #007bff; 
+    text-decoration: none; /* Quita el subrayado predeterminado */
+    transition: color 0.3s;
+  }
+  
+  /* Cambio de estilo en hover para los enlaces */
+  a:hover {
+    color: #ff9900;
+  }
